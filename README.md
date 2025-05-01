@@ -2,7 +2,7 @@
 A simple C++ project that simulates real-time traffic-aware pathfinding using a graph representation of a city. It uses Dijkstra’s algorithm while considering traffic congestion and visualizes the road network using Graphviz (dot).
 
 🧠 Features
-Feature	Description
+//Feature	Description
 Graph-based routing->     	|Intersections = nodes, Roads = weighted edges
 Traffic simulation->	      |Multiple vehicles per node (tracked via multiset logic)
 Shortest path calculation->	|Modified Dijkstra’s algorithm to include traffic cost
