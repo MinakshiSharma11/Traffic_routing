@@ -1,0 +1,18 @@
+graph CityMap {
+  "Bihta" -- "Danapur" [label="10"];
+  "Danapur" -- "Digha" [label="3"];
+  "Loknayak_Ganga_Path" -- "Deedarganj" [label="4"];
+  "Loknayak_Ganga_Path" -- "Digha" [label="5"];
+  "Gandhi_Maidan" -- "Patna_Junction" [label="2"];
+  "Gandhi_Maidan" -- "Dak_Bungalow" [label="1"];
+  "Gandhi_Maidan" -- "Ashok_Rajpath" [label="2"];
+  "Dak_Bungalow" -- "Frazer_Road" [label="0"];
+  "Frazer_Road" -- "Exhibition_Road" [label="1"];
+  "Exhibition_Road" -- "Chiraiyatand" [label="1"];
+  "Kankarbagh" -- "Chiraiyatand" [label="2"];
+  "Kankarbagh" -- "Rajendra_Nagar" [label="1"];
+  "Rajendra_Nagar" -- "Mahatma_Gandhi_Setu" [label="3"];
+  "Mahatma_Gandhi_Setu" -- "Hajipur" [label="5"];
+  "Ashok_Rajpath" -- "Gaighat" [label="2"];
+  "Gaighat" -- "Deedarganj" [label="3"];
+}

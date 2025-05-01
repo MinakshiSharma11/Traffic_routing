@@ -1,0 +1,19 @@
+# Patna City Map
+
+Patna_Junction  Gandhi_Maidan  2.5
+Gandhi_Maidan  Dak_Bungalow  1.2
+Dak_Bungalow  Frazer_Road  0.8
+Frazer_Road  Exhibition_Road  1.0
+Exhibition_Road  Chiraiyatand  1.5
+Chiraiyatand  Kankarbagh  2.0
+Kankarbagh  Rajendra_Nagar  1.3
+Rajendra_Nagar  Mahatma_Gandhi_Setu  3.0
+Mahatma_Gandhi_Setu  Hajipur  5.75
+Gandhi_Maidan  Ashok_Rajpath  2.0
+Ashok_Rajpath  Gaighat  2.5
+Gaighat  Deedarganj  3.0
+Deedarganj  Loknayak_Ganga_Path  4.0
+Loknayak_Ganga_Path  Digha  5.0
+Digha  Danapur  3.5
+Danapur  Bihta  10.0
+
